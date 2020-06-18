@@ -1,0 +1,3 @@
+SunEvent	KEYWORD1
+sunrise	KEYWORD2
+sunset	KEYWORD2
